@@ -85,7 +85,7 @@ public class Main {
                     System.out.println("Месяц " + mmonth + ", сумма накоплений равна " + Tdeposit + " рублей");
                 }
             }
-            System.out.println();
+            System.out.println("Е");
         }
     }
 
