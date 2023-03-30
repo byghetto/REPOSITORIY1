@@ -86,6 +86,8 @@ public class Main {
                 }
             }
             System.out.println();
+            var l = 1;
+            System.out.println("Сделанно" + l );
         }
     }
 
